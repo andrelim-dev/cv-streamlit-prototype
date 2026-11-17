@@ -1,0 +1,6 @@
+streamlit==1.61.1
+tensorflow==2.21.0
+keras==3.13.2
+huggingface_hub==1.33.0
+pillow==11.3.0
+numpy==2.4.6
